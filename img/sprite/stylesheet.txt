@@ -1,0 +1,50 @@
+<i class="sprite-2 sprite-2-Works1"></i>
+<i class="sprite-2 sprite-2-Works2"></i>
+<i class="sprite-2 sprite-2-Works3"></i>
+<i class="sprite-2 sprite-2-Works4"></i>
+<i class="sprite-2 sprite-2-Works5"></i>
+<i class="sprite-2 sprite-2-Works6"></i>
+
+
+
+.sprite-2 {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-2-Works1 {
+    width: 76px;
+    height: 67px;
+    background-position: -5px -5px;
+}
+
+.sprite-2-Works2 {
+    width: 77px;
+    height: 71px;
+    background-position: -5px -82px;
+}
+
+.sprite-2-Works3 {
+    width: 77px;
+    height: 45px;
+    background-position: -5px -163px;
+}
+
+.sprite-2-Works4 {
+    width: 70px;
+    height: 64px;
+    background-position: -5px -218px;
+}
+
+.sprite-2-Works5 {
+    width: 61px;
+    height: 70px;
+    background-position: -5px -292px;
+}
+
+.sprite-2-Works6 {
+    width: 68px;
+    height: 70px;
+    background-position: -5px -372px;
+}
